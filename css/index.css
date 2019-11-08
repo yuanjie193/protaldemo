@@ -1,0 +1,126 @@
+
+#head{
+    width: 100%;
+    height:170px;
+    min-height: 170px;
+    background-image: url(../images/login/bj.jpg);
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    /*background-repeat: no-repeat;*/
+}
+#head-a {
+    width:125px;
+    height: 50px;
+}
+#head-a img{
+    width:100%;
+    height: 100%;
+}
+/*#dl{*/
+    /*width:100%;*/
+    /*text-align: left;*/
+/*}*/
+/*.dl-a{*/
+    /*width: 100%;*/
+    /*border-bottom: 1px #e7e7e7 solid;*/
+    /*display:flex;*/
+
+/*}*/
+/*.dla-a{*/
+    /*width: 10%;*/
+    /*height: 40px;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+/*}*/
+
+.head2{
+    width:100%;
+    height: 52px;
+    /*background-color: #0080FF;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px #e7e7e7 solid;
+}
+#h-a{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#h-a span{
+    font-size: 16px;
+    color:#000000;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+#h-b{
+    width:80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+#h-b input{
+    outline: none;
+    border: none;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 3px;
+}
+#h-b input::placeholder{
+    color: #CCCCCC;
+}
+#h-c{
+    width:20%;
+    height:100%;
+    border-left:1px #e7e7e7 solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color:#98989F;
+}
+/*验证码*/
+#h-c{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#h-c span{
+    font-size: 16px;
+    color:#000000;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+#h-d{
+    width:50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+#h-d input{
+    outline: none;
+    border: none;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 3px;
+}
+#h-d input::placeholder{
+    color: #CCCCCC;
+}
+#h-e{
+    width:30%;
+    height:100%;
+    border-left:1px #e7e7e7 solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color:#98989F;
+}
