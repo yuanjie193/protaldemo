@@ -83,7 +83,7 @@
     letter-spacing: 1px;
 }
 #h-d{
-    width:50%;
+    width:60%;
     height: 100%;
     display: flex;
     align-items: center;
@@ -99,14 +99,19 @@
     color: #CCCCCC;
 }
 #h-e{
-    width:30%;
+    width:20%;
     height:100%;
-    border-left:1px #e7e7e7 solid;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 16px;
     color:#98989F;
+
+}
+#h-e img{
+    width: 30%;
+    height:30%;
+    margin-right: 1%;
 }
 #dl{
     width:100%;
@@ -114,7 +119,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-     margin-top: 40px;
+    margin-top: 40px;
 
 }
 #dl div{
@@ -129,44 +134,42 @@
 #dl a{
     font-size: 16px;
     color:#ffffff;
+    letter-spacing: 5pxt;
 }
 #dl a:hover{
     color:deepskyblue;
 }
 #tk{
     width:100%;
-    height: 30px;
+    height: 20px;
     margin-top: 20px;
 
 }
-#tk-a{
-    width: 24px;
-    height:24px;
-    float:left;
-    margin-left: 30px;
-}
 #tk-b{
-    width:80%;
+    width:100%;
     height: 100%;
     color:#98989F;
-    font-size: 12px;
+    font-size: 14px;
     float:left;
     margin-top: 2px;
+    text-align: right;
 }
 #tk-c{
     color:#157efa;
+    margin-right: 5%;
+    /*text-align: right;*/
 }
 #part{
     width:100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .part-a{
     width: 47%;
-    height: 0px;
+
     border: 1px #DBDBDB solid;
 
 }
@@ -184,7 +187,7 @@
     margin: 30px 0px 60px 0px;
 }
 #part2-a{
-    width:90px;
+    width:30%;
     height: 40px;
     border: 1px #E4007F solid;
     border-radius: 30px;
@@ -193,6 +196,6 @@
     align-items: center;
 }
 #part2-a a{
-    font-size: 16px;
+    font-size: 14px;
     color: #E4007F;
 }
