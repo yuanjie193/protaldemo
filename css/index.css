@@ -117,7 +117,7 @@
      margin-top: 40px;
 
 }
-#dl div{
+#dl a{
     width:95%;
     height:100%;
     background-color: #caccd2;
@@ -125,13 +125,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-#dl a{
     font-size: 16px;
     color:#ffffff;
 }
 #dl a:hover{
-    color:deepskyblue;
+    color:#EC0183;
 }
 #tk{
     width:100%;

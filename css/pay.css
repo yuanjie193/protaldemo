@@ -1,0 +1,136 @@
+#wk{
+    background-color: #F3F3F3;
+}
+#part{
+    width: 100%;
+    height:47px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+#part-a{
+     font-size: 15px;
+     color:#999999;
+    margin-left: 5%;
+
+ }
+#part-b{
+    font-size: 18px;
+    color:#2F2F2F;
+    margin-left: 25%;
+}
+/*第二部分*/
+#part2{
+    width:100%;
+    height:110px;
+    background-color: #F2FDEC;
+    position: relative;
+}
+#part2a{
+    width:100%;
+    height:80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#part2a img{
+    width:55%;
+    height:50%
+}
+#part2b{
+    font-size: 13px;
+    color:#585C64;
+    position: absolute;
+    bottom: 10%;
+    left:21%;
+}
+#part2b span{
+    font-size: 14px;
+    color:#E4007F;
+    font-weight: bold;
+}
+/*第三部分*/
+#part3{
+    width:100%;
+    background-color:white;
+}
+.part3a{
+    width:96%;
+    height:64px;
+    margin-left: 4%;
+    display: flex;
+    align-items: center;
+}
+.part3a-a{
+    width:5%;
+    height:30%;
+    border-radius: 50%;
+    border: 1px #BDC6CD solid;
+}
+.part3a img{
+    width:6%;
+    height:38%;
+    margin-left: 5%;
+}
+.part3a-b{
+    font-size: 17px;
+    color: #222222;
+    margin-left: 3%;
+}
+#part3b{
+    width:96%;
+    height:64px;
+    margin-left: 3.5%;
+    display: flex;
+    align-items: center;
+    border-top: 1px #F7F7F7 solid;
+    border-bottom: 1px #F7F7F7 solid;
+}
+#part3b-a{
+    width:6.5%;
+    height:40%;
+}
+
+#part3b-b{
+    width:6%;
+    height:38%;
+    margin-left: 4%;
+}
+/*空白底部*/
+#part4{
+    width:100%;
+    height: 170px;
+}
+/*底部固定支付栏*/
+#part5{
+    width:100%;
+    height:97px;
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+}
+#part5a{
+    font-size: 15px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+#part5a span{
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+}
+#part5b{
+    width:92%;
+    height:49.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E03897;
+    font-size: 17px;
+    color:white;
+    margin: auto;
+    border-radius:5px;
+}
