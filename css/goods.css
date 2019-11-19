@@ -1,6 +1,7 @@
 #total{
     background-color: #FAFAFA;
 }
+/*导航栏*/
 #part{
     width:100%;
     height:50px;
@@ -34,7 +35,7 @@
     top:32%;
     right:10%;
 }
-/*第二部分*/
+/*第二部分：宣传图*/
 #part2{
      width: 100%;
      height: 133px;
@@ -43,6 +44,7 @@
     width: 100%;
     height: 100%;
 }
+/*商品分类栏*/
 #part3{
     width: 100%;
     height: 340px;

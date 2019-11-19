@@ -1,4 +1,4 @@
-
+/*头部品牌图片*/
 #head{
     width: 100%;
     height:170px;
@@ -17,7 +17,7 @@
     width:100%;
     height: 100%;
 }
-
+/*登录框*/
 .head2{
     width:100%;
     height: 52px;
@@ -169,7 +169,7 @@
     align-items: center;
     margin-top: 20px;
 }
-
+/*分隔栏*/
 .part-a{
     width: 47%;
 
@@ -182,6 +182,7 @@
     text-align: center;
     color: #DBDBDB;
 }
+/*切换登录方式*/
 #part2{
     width: 100%;
     display: flex;

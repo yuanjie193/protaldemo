@@ -1,4 +1,4 @@
-
+/*头部品牌图片*/
 #head{
     width: 100%;
     height:170px;
@@ -17,6 +17,7 @@
     width:100%;
     height: 100%;
 }
+/* 登录框*/
 
 .head2{
     width:100%;
@@ -131,6 +132,7 @@
 #dl a:hover{
     color:#EC0183;
 }
+/*注册条款*/
 #tk{
     width:100%;
     height: 30px;
@@ -154,6 +156,7 @@
 #tk-c{
     color:#157efa;
 }
+/*分隔栏*/
 #part{
     width:100%;
     display: flex;
@@ -174,6 +177,7 @@
     text-align: center;
     color: #DBDBDB;
 }
+/*切换登录方式*/
 #part2{
     width: 100%;
     display: flex;

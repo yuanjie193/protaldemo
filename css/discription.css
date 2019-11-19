@@ -1,6 +1,7 @@
 #wk{
     background-color: #F3F4F5;
 }
+/*宣传图*/
 #part{
     width: 100%;
     height:400px;
@@ -42,11 +43,11 @@
     position: absolute;
     top:4%;
     right:3%;
-    background-color: black;
+    background-color:#716B60;
     display: flex;
     /*justify-content:space-around;*/
     align-items: center;
-    opacity: 0.5;
+    opacity: 0.8;
     border-radius: 40px;
 }
 #part02-a{
@@ -89,7 +90,7 @@
     background-color: #917778;
     border-radius: 50%;
 }
-/*第二部分*/
+/*第二部分：商品价格*/
 #part2{
     width:100%;
     height:73px;
@@ -202,7 +203,7 @@
     color:#98989F;
     margin: auto;
 }
-/*第三部分*/
+/*第三部分：商品种类选择*/
 #part3{
     width: 100%;
     height:243px;
@@ -372,7 +373,7 @@
     color:#222222;
     /*margin-left: 20%;*/
 }
-/*第四部分*/
+/*第四部分：配送*/
 #part4{
     width:100%;
     height:48px;
@@ -456,8 +457,8 @@
     text-align: center;
     margin-left:1.5%;
     margin-top: 2%;
-    /*background-color: #E4007F;*/
 }
+/*商品详情介绍*/
 #part7{
     width: 100%;
     height:270px;

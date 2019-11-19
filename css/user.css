@@ -89,7 +89,7 @@
     width: 100%;
     height: 28%;
     /*background-color: #E4007F;*/
-    border-bottom: 2px #CCCCCC solid;
+    border-bottom: 1px #CCCCCC solid;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -131,12 +131,12 @@
 .part2{
     width: 100%;
     height: 50px;
-    border-bottom: 2px #CCCCCC solid;
+    border-bottom: 1px #CCCCCC solid;
 }
 #part2a{
     width: 100%;
     height: 50px;
-    border-bottom: 2px #CCCCCC solid;
+    border-bottom: 1px #CCCCCC solid;
     position: relative;
 }
 #part2a-a{
